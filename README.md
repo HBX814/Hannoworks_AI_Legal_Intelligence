@@ -70,7 +70,7 @@ pip install -r requirements.txt
    - Keep it handy for system setup
 
 ## Video Demonstration 
-[https://drive.google.com/file/d/1-_F0al-gLd8sHo7dfmeMix-1uIO8hA9t/view?usp=sharing](url)
+[URL](https://drive.google.com/file/d/1-_F0al-gLd8sHo7dfmeMix-1uIO8hA9t/view?usp=sharing)
 
 ## 🎮 Usage
 
