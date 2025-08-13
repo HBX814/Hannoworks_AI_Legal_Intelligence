@@ -200,9 +200,6 @@ The system is specifically designed for:
 - **Cloud Deployment**: Scalable production deployment
 - **API Integration**: REST API for external system integration
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 ### Development Setup
 
@@ -217,7 +214,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Hannoworks** for providing the internship assignment opportunity
 - **Groq** for providing fast LLM inference capabilities
 - **Sentence Transformers** for high-quality embeddings
 - **FAISS** for efficient vector similarity search
